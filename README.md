@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="trackvault-logo.png" width="200" alt="TrackVault logo" />
+</p>
+
 # 🎵 TrackVault (CSV/XML to SQLite)
 
 **TrackVault** is a Python project that allows you to import music track data into a normalized SQLite database from either:
